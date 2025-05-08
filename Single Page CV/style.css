@@ -1,0 +1,41 @@
+
+        #h1 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 24px;
+        }
+    
+        #p {
+            font-family: "Montserrat", sans-serif;
+            font-size: 14px;
+            font-weight: 550;
+        }
+        #p1{
+            font-family: 'Monstserrat', sans-serif;
+        }
+        #p2{
+            font-family: 'Monstserrat', sans-serif;
+            color:#4efe3f
+        }
+        #p3{
+            font-family: 'Monstserrat', sans-serif;
+            color:#4efe3f
+        }
+        #p4{
+            font-family: 'Monstserrat', sans-serif;
+            color:#4efe3f
+        }
+        #p5{
+           font-family:'Monstserrat', sans-serif;
+            color: #5cd8e4;
+        }
+        #p6{
+            font-family:'Monstserrat';sans-serif;
+            color: #4efe3f
+        }
+       
+        .fa-linkedin{
+            color:#0077B5
+        }
+        .fa-square-github{
+            color:#24292e
+        }
